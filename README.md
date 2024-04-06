@@ -35,7 +35,7 @@ Linux (Ubuntu): As a base operating system to start and execute the project
 
 Jenkins: To automate the deployment process during continuous integration
 
-Following requirements should be met:
+## Following is the workflow:
 
 Document the step-by-step process from the initial installation to the final stage
 
